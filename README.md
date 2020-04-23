@@ -74,3 +74,7 @@ import Crypto from 'pandora-crypto';
 
 Crypto.SHA256('message');
 ```
+
+
+## 代码示例
+[AES加解密代码示例](https://www.jianshu.com/p/50a868842501)
